@@ -1,0 +1,12 @@
+/*Four card feature section layout*/
+
+.feature__section {
+  width: 100%;
+  height: 100%;
+  padding: 8rem 16.5rem;
+}
+
+.heading_primary--main,
+.heading_primary--sub {
+  display: block;
+}

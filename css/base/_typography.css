@@ -1,4 +1,41 @@
 /*General Page Typography Styles*/
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f2f2f2;
+  line-height: 1.4;
+}
+
+/*Feature Section Typography*/
+
+.heading_primary {
+  font-size: 3.6rem;
+  text-align: center;
+  letter-spacing: 0.25px;
+  color: #4d4f62;
+  margin-bottom: 1.3rem;
+}
+
+.heading_primary--main {
+  font-weight: 200;
+}
+.heading_primary--sub {
+  font-weight: 600;
+}
+
+.feature__paragraph {
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.104167px;
+  color: #4d4f62;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  width: 50%;
+  margin: 0 auto;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
