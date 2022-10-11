@@ -33,11 +33,30 @@ body {
   mix-blend-mode: normal;
   opacity: 0.5;
   width: 50%;
-  margin: 0 auto;
+  margin: 0 auto 6.4rem;
+}
+
+/*Feature Card*/
+
+.feature__card-heading {
+  font-weight: 600;
+  font-size: 2rem;
+  color: #4d4f62;
+  margin-bottom: 8px;
+}
+
+.feature__card-text {
+  font-weight: 400;
+  font-size: 1.3rem;
+  line-height: 1.6;
+  letter-spacing: 0.0902778px;
+  color: #4d4f62;
+  mix-blend-mode: normal;
+  opacity: 0.5;
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 1.1rem;
   text-align: center;
 }
 .attribution a {
