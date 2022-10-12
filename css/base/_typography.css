@@ -62,3 +62,15 @@ body {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+@media screen and (max-width: 425px) {
+  .feature__paragraph {
+    width: 100%;
+    margin: 0 0 5.6rem;
+  }
+
+  .heading_primary {
+    font-size: 3.4rem;
+    margin-bottom: 1.6rem;
+  }
+}

@@ -19,3 +19,9 @@ main {
   height: 100%;
   min-height: 95vh;
 }
+
+@media screen and (max-width: 425px) {
+  html {
+    font-size: 52.5%;
+  }
+}
